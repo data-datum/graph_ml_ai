@@ -9,6 +9,9 @@
 * Graph Representation part 03 - Adjacency List http://bit.ly/2SwYd6d
 
 ## Tooling
+### R
+* igraph Package http://igraph.org/r/
+### Tensorflow
 * Implementation of Graph Convolutional Networks in TensorFlow http://bit.ly/2PHoLDf
 
 ## Graph Convolutional Networks (publications)
