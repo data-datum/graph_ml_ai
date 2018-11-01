@@ -11,6 +11,8 @@
 ## Tooling
 ### R
 * igraph Package http://igraph.org/r/
+### Python
+* NetworkX https://networkx.github.io/
 ### Tensorflow
 * Implementation of Graph Convolutional Networks in TensorFlow http://bit.ly/2PHoLDf
 
