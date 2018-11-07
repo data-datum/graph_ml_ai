@@ -26,7 +26,7 @@
 * Multi-dimensional Graph Convolutional Networks http://bit.ly/2PCzdf8
 
 ## Probabilistic Graphical Models 
-Probabilistic Graphical Models (PGMs) use graphs to compactly represent high dimensional multimodal joint distributions over random variables.Factorizing the joint distribution via the graph (or equivalently via conditional independence) facilitates efficient queries. This makes PGMs very effective at modelling complex relationships between variables. 
+Probabilistic Graphical Models (PGMs) use graphs to compactly represent high dimensional multimodal joint distributions over random variables. Factorizing the joint distribution via the graph (or equivalently via conditional independence) facilitates efficient queries. This makes PGMs very effective at modelling complex relationships between variables. 
 ### Foundations
 * Tutorial on Probabilistic Graphical Models: A Geometric and Topological View http://bit.ly/2zxtGfG
 * Bayesian Machine Learning http://bit.ly/2zxYw7T
