@@ -34,3 +34,4 @@ Probabilistic Graphical Models (PGMs) use graphs to compactly represent high dim
 * Tutorial on Probabilistic Graphical Models: A Geometric and Topological View http://bit.ly/2zxtGfG
 * Bayesian Machine Learning http://bit.ly/2zxYw7T
 * Probabilistic Graphical Models _Daphne Kollner_ [video] http://bit.ly/2zwrrJt
+* Probabilistic Graphical Models Course [slides] http://bit.ly/2Dm7sRj
